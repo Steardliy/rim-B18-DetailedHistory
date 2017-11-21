@@ -1,0 +1,5 @@
+C:\GitLocal\rim-B18-DetailedHistory\DetailedHistory\bin\Debug\DetailedHistory.dll
+C:\GitLocal\rim-B18-DetailedHistory\DetailedHistory\bin\Debug\DetailedHistory.pdb
+C:\GitLocal\rim-B18-DetailedHistory\DetailedHistory\obj\Debug\DetailedHistory.csproj.CoreCompileInputs.cache
+C:\GitLocal\rim-B18-DetailedHistory\DetailedHistory\obj\Debug\DetailedHistory.dll
+C:\GitLocal\rim-B18-DetailedHistory\DetailedHistory\obj\Debug\DetailedHistory.pdb

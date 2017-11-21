@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+		<xpath>*/MainButtonDef[defName="History"]/tabWindowClass</xpath>
+		<value>
+			<tabWindowClass>DetailedHistory.MainTabWindow_DetailedHistory</tabWindowClass>
+		</value>
+	</Operation>
+	
+</Patch>
